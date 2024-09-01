@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently Pursuing MCA and also focusing on **Automation skills (Selenium,TestNG,POM)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnshikaParmar/Project1.git ,https://github.com/AnshikaParmar/Project02.git](https://github.com/AnshikaParmar/Project1.git ,https://github.com/AnshikaParmar/Project02.git)
-
-- 📫 How to reach me **anshikaparmar2001@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/AnshikaParmar/Project1.git ,https://github.com/AnshikaParmar/Project02.git]
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wIruo5K35KGove9mknXHMbHvhECsllJP/view?usp=drive_link](https://drive.google.com/file/d/1wIruo5K35KGove9mknXHMbHvhECsllJP/view?usp=drive_link)
 
