@@ -67,11 +67,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshikaparmar&show_icons=true&locale=en&layout=compact" alt="anshikaparmar" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshikaparmar&show_icons=true&locale=en&layout=compact" alt="anshikaparmar" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikaparmar&" alt="anshikaparmar" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikaparmar&" alt="anshikaparmar" /></p>
