@@ -19,14 +19,17 @@
 
 ### 🛠️ Tech Stack  
 
+### 🛠️ Tech Stack  
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 </p>
 
@@ -35,11 +38,11 @@
 ### 🎯 Current Goals  
 | Goal | Status |  
 |------|---------|  
-| 🚀 Build and refine automation test suites | 🟢 In Progress |  
-| 📘 Strengthen API testing fundamentals | 🟡 Ongoing |  
-| 💻 Improve Java programming and problem-solving skills | 🟢 Actively Working |  
-| ☁️ Explore Cloud concepts and tools | 🟡 Learning |  
-
+| 🚀 Expand automation expertise with Playwright (JS/TS) | 🟢 In Progress |  
+| 🧪 Build and refine Selenium (Java, TestNG, POM) test suites | 🟢 In Progress |  
+| 🔗 Deepen REST API testing with Postman and automation | 🟡 Ongoing |  
+| ⚙️ Learn CI/CD basics with GitHub Actions for automated test runs | 🟡 Learning |  
+| ☁️ Explore cloud testing and cloud-based test execution | 🟡 Learning |
 ---
 
 ### 📂 Featured Projects  
@@ -52,7 +55,7 @@
 
 ### 📄 Resume  
 <p align="left">
-  <a href="https://drive.google.com/file/d/1gJYi0S8woA3HSiPY4aw8YN1jCxbVb0cK/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/12CG77z9MbE0QfmbE7aKZZuF3CMYJUWRZ/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" alt="Resume">
   </a>
 </p>
