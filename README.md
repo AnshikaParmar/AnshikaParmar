@@ -8,11 +8,12 @@
 ---
 
 ### 💡 About Me  
-🎯 Passionate about **Quality Assurance** and **Automation Testing**  
-💻 Skilled in **Selenium WebDriver**, **TestNG**, **Page Object Model (POM)**, and **Postman**  
-🧪 Familiar with **API testing**, **Cucumber**, and **Data-Driven frameworks**  
-⚙️ Focused on improving **test coverage**, **automation reliability**, and **Java programming skills**  
-📈 Interested in **SDLC**, **Agile methodologies**, and **continuous testing practices**  
+🎯 **QA Engineer** with 1+ year in **Manual** and **Automation Testing** across web and mobile (Android/iOS)  
+💻 Skilled in **Selenium WebDriver (Java)**, **TestNG**, **Page Object Model (POM)**, **Maven**, and **Postman**  
+🧪 Experienced in **REST API Testing**, **Cross-Browser Testing (BrowserStack)**, and **Load Testing (JMeter)**  
+🤖 Use **AI tools (ChatGPT, Claude)** for test case drafting and documentation  
+☁️ **Oracle Certified Multicloud Architect Professional (2025)**  
+🌱 Expanding my automation expertise with **Playwright (JS/TS)** 
 
 ---
 
