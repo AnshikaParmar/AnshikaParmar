@@ -13,7 +13,7 @@
 🧪 Experienced in **REST API Testing**, **Cross-Browser Testing (BrowserStack)**, and **Load Testing (JMeter)**  
 🤖 Use **AI tools (ChatGPT, Claude)** for test case drafting and documentation  
 ☁️ **Oracle Certified Multicloud Architect Professional (2025)**  
-🌱 Expanding my automation expertise with **Playwright (JS/TS)** 
+🌱 Expanding my automation expertise with **Playwright (Java)** 
 
 ---
 
@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
@@ -36,7 +35,7 @@
 ### 🎯 Current Goals  
 | Goal | Status |  
 |------|---------|  
-| 🚀 Expand automation expertise with Playwright (JS/TS) | 🟢 In Progress |  
+| 🚀 Expand automation expertise with Playwright (Java) | 🟢 In Progress |  
 | 🧪 Build and refine Selenium (Java, TestNG, POM) test suites | 🟢 In Progress |  
 | 🔗 Deepen REST API testing with Postman and automation | 🟡 Ongoing |  
 | ⚙️ Learn CI/CD basics with GitHub Actions for automated test runs | 🟡 Learning |  
