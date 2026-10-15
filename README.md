@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me  
-🎯 **QA Engineer** with 1+ year in **Manual** and **Automation Testing** across web and mobile (Android/iOS)  
+🎯 **Quality Analyst** with 1+ year in **Manual** and **Automation Testing** across web and mobile (Android/iOS)  
 💻 Skilled in **Selenium WebDriver (Java)**, **TestNG**, **Page Object Model (POM)**, **Maven**, and **Postman**  
 🧪 Experienced in **REST API Testing**, **Cross-Browser Testing (BrowserStack)**, and **Load Testing (JMeter)**  
 🤖 Use **AI tools (ChatGPT, Claude)** for test case drafting and documentation  
@@ -52,7 +52,7 @@
 
 ### 📄 Resume  
 <p align="left">
-  <a href="https://drive.google.com/file/d/12CG77z9MbE0QfmbE7aKZZuF3CMYJUWRZ/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1o8uUT_rTnwFMjCRRs1SdC5thISIQKBCx/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" alt="Resume">
   </a>
 </p>
